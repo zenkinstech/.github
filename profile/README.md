@@ -15,6 +15,4 @@ with AI built in where it improves quality, maintenance and decisions.
 - Templates and example architectures
 - Internal tooling we are free to open-source
 
-Website: https://zenkins.com
-
 Explore our work and capabilities at https://zenkins.com/.
