@@ -1,17 +1,20 @@
 # Zenkins
 
-**AI & Software Engineering for Manufacturing**
+Zenkins is a manufacturing software development company. We engineer, connect
+and modernize MES, ERP, PLM, quality and shop-floor software for manufacturers,
+with AI built in where it improves quality, maintenance and decisions.
 
-Zenkins builds custom software and AI solutions for manufacturing and complex business environments.
+## What we work on
+- Manufacturing systems: MES, quality, maintenance and shop-floor applications
+- Integration between ERP, MES, PLM, IoT and custom applications
+- Legacy application modernization (.NET and others)
+- AI for manufacturing: defect detection, predictive maintenance, planning
 
-Our engineering focus includes:
+## This organization
+- Sample integration patterns and connectors (no client code)
+- Templates and example architectures
+- Internal tooling we are free to open-source
 
-- AI-powered applications and intelligent automation
-- Manufacturing software and operational workflows
-- Enterprise system and API integration
-- Data engineering and cloud applications
-- Legacy application modernization
-
-We believe practical AI delivers value when it is supported by reliable software architecture, connected data, and integration with existing business systems.
+Website: https://zenkins.com
 
 Explore our work and capabilities at https://zenkins.com/.
